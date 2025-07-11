@@ -1,5 +1,5 @@
 # Change these first
-owner: oliverrees # Your GitHub organization or username, where this repository lives
+owner: jetclock # Your GitHub organization or username, where this repository lives
 repo: jetclock-status # The name of this repository
 
 sites:
