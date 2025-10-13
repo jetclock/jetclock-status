@@ -63,19 +63,19 @@
     "url": "https://api.jetclock.io/ground",
     "icon": "https://icons.duckduckgo.com/ip3/api.jetclock.io.ico",
     "slug": "jet-clock-ground-api",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1047,
-    "timeDay": 1001,
-    "timeWeek": 1032,
-    "timeMonth": 1047,
-    "timeYear": 1047,
+    "status": "up",
+    "uptime": "99.31%",
+    "uptimeDay": "94.33%",
+    "uptimeWeek": "99.19%",
+    "uptimeMonth": "99.31%",
+    "uptimeYear": "99.31%",
+    "time": 1048,
+    "timeDay": 1021,
+    "timeWeek": 1035,
+    "timeMonth": 1048,
+    "timeYear": 1048,
     "dailyMinutesDown": {
-      "2025-10-13": 0
+      "2025-10-13": 82
     }
   }
 ]
