@@ -1,7 +1,7 @@
 url: https://api.jetclock.io/ground
-status: down
-code: 500
-responseTime: 574
-lastUpdated: 2025-12-24T23:20:07.848Z
+status: up
+code: 200
+responseTime: 353
+lastUpdated: 2025-12-25T03:42:09.743Z
 startTime: 2025-10-05T11:32:10.203Z
 generator: Upptime <https://github.com/upptime/upptime>
