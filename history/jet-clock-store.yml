@@ -1,7 +1,7 @@
 url: https://jetclock.io
-status: up
-code: 200
-responseTime: 629
-lastUpdated: 2026-02-03T23:28:54.692Z
+status: down
+code: 503
+responseTime: 29528
+lastUpdated: 2026-02-04T15:04:30.311Z
 startTime: 2025-07-06T11:58:50.769Z
 generator: Upptime <https://github.com/upptime/upptime>
