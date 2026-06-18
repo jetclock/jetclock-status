@@ -21,6 +21,10 @@ on:
   repository_dispatch:
     types: [graphs]
   workflow_dispatch:
+env:
+  # Upptime's action ships a native binary compiled for Node 20; force the
+  # node20-declared action back onto Node 20 instead of the runner default (24).
+  ACTIONS_ALLOW_USE_UNSECURE_NODE_VERSION: "true"
 jobs:
   release:
     name: Generate graphs
