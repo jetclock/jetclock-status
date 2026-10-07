@@ -4,22 +4,22 @@
     "url": "https://app.jetclock.io",
     "icon": "https://icons.duckduckgo.com/ip3/app.jetclock.io.ico",
     "slug": "jet-clock-app",
-    "status": "down",
-    "uptime": "99.92%",
-    "uptimeDay": "82.05%",
-    "uptimeWeek": "97.44%",
-    "uptimeMonth": "99.41%",
-    "uptimeYear": "99.90%",
-    "time": 597,
-    "timeDay": 139,
-    "timeWeek": 476,
-    "timeMonth": 532,
+    "status": "up",
+    "uptime": "99.84%",
+    "uptimeDay": "44.99%",
+    "uptimeWeek": "92.14%",
+    "uptimeMonth": "98.19%",
+    "uptimeYear": "99.80%",
+    "time": 598,
+    "timeDay": 350,
+    "timeWeek": 509,
+    "timeMonth": 540,
     "timeYear": 575,
     "dailyMinutesDown": {
       "2025-11-18": 164,
       "2025-12-05": 33,
       "2026-02-13": 47,
-      "2026-10-07": 259
+      "2026-10-07": 792
     }
   },
   {
